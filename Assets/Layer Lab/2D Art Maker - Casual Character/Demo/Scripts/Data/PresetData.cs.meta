@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dd929b4571dc14e00bea524f0f6fe76d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316781
+  packageName: 2D Art Maker - Casual Characters
+  packageVersion: 1.0.6
+  assetPath: Assets/Layer Lab/2D Art Maker - Casual Character/Demo/Scripts/Data/PresetData.cs
+  uploadId: 751521

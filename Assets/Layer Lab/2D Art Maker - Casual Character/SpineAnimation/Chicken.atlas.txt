@@ -1,0 +1,15 @@
+Chicken.png
+size:60,60
+filter:Linear,Linear
+pma:true
+Chicken/Shadow
+bounds:2,4,38,13
+offsets:1,1,40,15
+Chicken/body
+bounds:2,19,41,37
+Chicken/leg_l
+bounds:45,44,11,12
+offsets:1,1,13,14
+Chicken/leg_r
+bounds:45,44,11,12
+offsets:1,1,13,14

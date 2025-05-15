@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d805cd93285ed4294b185bab392273d9
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316781
+  packageName: 2D Art Maker - Casual Characters
+  packageVersion: 1.0.6
+  assetPath: Assets/Layer Lab/2D Art Maker - Casual Character/Demo/Shader&Materials/WindShader.shader
+  uploadId: 751521

@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Map
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5a013d3406f664e8688e7f311dfcec0f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7c271170fb5bc4b99a7901be7473ab89, type: 3}
+  - {fileID: 21300000, guid: 537b7b211218449f09feb545d4574146, type: 3}
+  - {fileID: 21300000, guid: 09881912bd16d4af9b8e3368de525932, type: 3}
+  - {fileID: 21300000, guid: ff4f9df243805423c9dc7fcb5b65076e, type: 3}
+  - {fileID: 21300000, guid: edc3e22392c1a41cd898d5df7d46ab40, type: 3}
+  - {fileID: 21300000, guid: d20115838acde47dbb61b196554652ec, type: 3}
+  - {fileID: 21300000, guid: 787bd2c3699c44ec5b2e80761840dd45, type: 3}
+  - {fileID: 21300000, guid: d2a78d44047c441169fed6bb379a105c, type: 3}
+  - {fileID: 21300000, guid: 1525c8641e81c4ad1afaa3dcecc105b9, type: 3}
+  - {fileID: 21300000, guid: b1eb1d74d0a5a49e2a888998f2ac0ac5, type: 3}
+  - {fileID: 21300000, guid: dc6f9aa43222747eaae69d5990a45dcc, type: 3}
+  - {fileID: 21300000, guid: 19e4a0052b82043b7848915634c0bd70, type: 3}
+  - {fileID: 21300000, guid: 93d87c89930e24dad8119dfc316fe0b4, type: 3}
+  - {fileID: 21300000, guid: 72b2cb0ac60264b7090a7f425801d7ed, type: 3}
+  - {fileID: 21300000, guid: efc52f2a8ae2245da9e528bf179d8713, type: 3}
+  - {fileID: 21300000, guid: 5c2810aa6239943c696a642c20de1f98, type: 3}
+  - {fileID: 21300000, guid: a8eeeeaab19be4dabbaaf319218780af, type: 3}
+  - {fileID: 21300000, guid: c3c459ba9d9f6442097817fcabea2247, type: 3}
+  - {fileID: 21300000, guid: 26598b6b00f164e87807803ffc99c780, type: 3}
+  - {fileID: 21300000, guid: 5d4a549bd4f544221952019b7848d942, type: 3}
+  - {fileID: 21300000, guid: 411509dc3c2714db0b85889787aa9c96, type: 3}
+  - {fileID: 21300000, guid: 8fbfd3fc41196424c89c92b31b49ecd1, type: 3}
+  - {fileID: 21300000, guid: b173372de7e9442b68c117e28fe3300b, type: 3}
+  - {fileID: 21300000, guid: 22c7094d89ec94341a469ac2bd727f49, type: 3}
+  - {fileID: 21300000, guid: 02b1753f72257452fafca5b9151efa28, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - object6
+  - flower2
+  - object7
+  - grass4
+  - tree3
+  - chicken
+  - tree2
+  - farm2
+  - flower1
+  - fire
+  - tent
+  - tree1
+  - object4
+  - car2
+  - object5
+  - car1
+  - grass5
+  - object2
+  - object1
+  - campfire
+  - farm1
+  - building2
+  - grass2
+  - grass1
+  - grass3
+  m_RenderDataMap: {}
+  m_Tag: Map
+  m_IsVariant: 0
